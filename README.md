@@ -6,4 +6,4 @@
 ~~Back up as of 28/3/2025~~
 Back down as of 15/04/2025
 
-For alternatives or a new unflagged solver please contact https://t.me/Dinglenut18
+For alternatives or a new unflagged solver please contact https://t.me/Dinglenut18 (paid)
