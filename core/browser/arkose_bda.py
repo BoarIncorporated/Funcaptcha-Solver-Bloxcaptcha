@@ -1,11 +1,12 @@
 from time import time
 from random import randint, choice
 from re import sub
+import secrets
 from json import dumps
 from base64 import b64encode
 from mmh3 import hash128
-from core.obfuscation.crypto import encrypt_data
-from core.browser.fingerprint import Fingerprint
+from funcaptcha.core.obfuscation.crypto import encrypt_data
+from funcaptcha.core.browser.fingerprint import Fingerprint
 from typing import Union, Dict, List
 
 __all__ = ["ArkoseBDA"]
@@ -96,7 +97,7 @@ class ArkoseBDA:
             {"key": "n", "value": base64_encoded_time},
             {
                 "key": "wh",
-                "value": f"{''.join(choice('0123456789abcdef') for _ in range(32))}|72627afbfd19a741c7da1732218301ac",
+                "value": f"{secrets.token_hex(16)}|72627afbfd19a741c7da1732218301ac",
             },
             {"key": "enhanced_fp", "value": self.enhanced_fp},
             {"key": "fe", "value": self.fingerprint_entries},

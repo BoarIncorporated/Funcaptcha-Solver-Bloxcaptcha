@@ -1,16 +1,16 @@
 from curl_cffi import requests
 from time import time
-from random import random, randint, choice
+from random import random, randint, choice, gauss
 import httpx
 from json import dumps
 from base64 import b64encode
 from urllib.parse import unquote
-from core.obfuscation.crypto import encrypt_data
-from core.browser.arkose_bda import ArkoseBDA
-from core.obfuscation.dapib import DapibBreaker
-from core.mouse_movement.biometrics import Biometrics
-from core.utilities.ip_intelligence import IpIntelligence
-from core.obfuscation.proof_of_work import ProofOfWork
+from funcaptcha.core.obfuscation.crypto import encrypt_data
+from funcaptcha.core.browser.arkose_bda import ArkoseBDA
+from funcaptcha.core.obfuscation.dapib import DapibBreaker
+from funcaptcha.core.mouse_movement.biometrics import Biometrics
+from funcaptcha.core.utilities.ip_intelligence import IpIntelligence
+from funcaptcha.core.obfuscation.proof_of_work import ProofOfWork
 from typing import Dict, List, Any, Optional, Tuple
 
 __all__ = ("FunCaptchaSolver",)
@@ -65,7 +65,8 @@ class FunCaptchaSolver:
         
         self._get_cloudfare_cookie()
         
-        self.screen_clicks: str = "{\"sc\":[" + str(randint(100, 200)) + "," + str(randint(100, 200)) + "]}"
+        x, y = int(gauss(150, 20)), int(gauss(150, 20))
+        self.screen_clicks = dumps({"sc": [max(0, x), max(0, y)]}) 
         
         self.answer_history: List[str, str] = []
         self.tguess_history: List[str, str] = []
