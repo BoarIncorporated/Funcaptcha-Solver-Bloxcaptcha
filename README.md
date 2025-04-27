@@ -8,4 +8,4 @@ Back down as of 15/04/2025
 
 For alternatives or a new unflagged solver please contact https://t.me/Dinglenut18 (paid)
 
-To purchase high quality unused fingerprint go to https://fingerprinting.my (min 10k)
+To purchase high quality unused fingerprint go to https://fingerprinting.my or contact my telegram (min 10k do not try to bargain to 1k please)
