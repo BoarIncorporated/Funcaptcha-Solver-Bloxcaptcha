@@ -1,0 +1,414 @@
+[
+  {
+    "key": "api_type",
+    "value": "js"
+  },
+  {
+    "key": "f",
+    "value": "256dba2ba94edaa0c09eb76cc60cc6a2"
+  },
+  {
+    "key": "n",
+    "value": "MTc0MjE3Nzk2MQ=="
+  },
+  {
+    "key": "wh",
+    "value": "ffb40d5c681ad05733a1a08815eb042b|72627afbfd19a741c7da1732218301ac"
+  },
+  {
+    "key": "enhanced_fp",
+    "value": [
+      {
+        "key": "webgl_extensions",
+        "value": "ANGLE_instanced_arrays;EXT_blend_minmax;EXT_clip_control;EXT_color_buffer_half_float;EXT_depth_clamp;EXT_disjoint_timer_query;EXT_float_blend;EXT_frag_depth;EXT_polygon_offset_clamp;EXT_shader_texture_lod;EXT_texture_compression_bptc;EXT_texture_compression_rgtc;EXT_texture_filter_anisotropic;EXT_texture_mirror_clamp_to_edge;EXT_sRGB;KHR_parallel_shader_compile;OES_element_index_uint;OES_fbo_render_mipmap;OES_standard_derivatives;OES_texture_float;OES_texture_float_linear;OES_texture_half_float;OES_texture_half_float_linear;OES_vertex_array_object;WEBGL_blend_func_extended;WEBGL_color_buffer_float;WEBGL_compressed_texture_s3tc;WEBGL_compressed_texture_s3tc_srgb;WEBGL_debug_renderer_info;WEBGL_debug_shaders;WEBGL_depth_texture;WEBGL_draw_buffers;WEBGL_lose_context;WEBGL_multi_draw;WEBGL_polygon_mode"
+      },
+      {
+        "key": "webgl_extensions_hash",
+        "value": "7300c23f4e6fa34e534fc99c1b628588"
+      },
+      {
+        "key": "webgl_renderer",
+        "value": "WebKit WebGL"
+      },
+      {
+        "key": "webgl_vendor",
+        "value": "WebKit"
+      },
+      {
+        "key": "webgl_version",
+        "value": "WebGL 1.0 (OpenGL ES 2.0 Chromium)"
+      },
+      {
+        "key": "webgl_shading_language_version",
+        "value": "WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)"
+      },
+      {
+        "key": "webgl_aliased_line_width_range",
+        "value": "[1, 2048]"
+      },
+      {
+        "key": "webgl_aliased_point_size_range",
+        "value": "[1, 2048]"
+      },
+      {
+        "key": "webgl_antialiasing",
+        "value": "yes"
+      },
+      {
+        "key": "webgl_bits",
+        "value": "8,8,24,8,8,0"
+      },
+      {
+        "key": "webgl_max_params",
+        "value": "16,64,16384,1024,16384,32,16384,32,16,32,1024"
+      },
+      {
+        "key": "webgl_max_viewport_dims",
+        "value": "[16384, 16384]"
+      },
+      {
+        "key": "webgl_unmasked_vendor",
+        "value": "Google Inc. (AMD)"
+      },
+      {
+        "key": "webgl_unmasked_renderer",
+        "value": "ANGLE (AMD, AMD Radeon 610M (radeonsi raphael_mendocino LLVM 19.1.7), OpenGL 4.6)"
+      },
+      {
+        "key": "webgl_vsf_params",
+        "value": "23,127,127,23,127,127,23,127,127"
+      },
+      {
+        "key": "webgl_vsi_params",
+        "value": "0,31,30,0,31,30,0,31,30"
+      },
+      {
+        "key": "webgl_fsf_params",
+        "value": "23,127,127,23,127,127,23,127,127"
+      },
+      {
+        "key": "webgl_fsi_params",
+        "value": "0,31,30,0,31,30,0,31,30"
+      },
+      {
+        "key": "webgl_hash_webgl",
+        "value": "31c1ded93ef88ca712e9f8646a27ca34"
+      },
+      {
+        "key": "user_agent_data_brands",
+        "value": "Not A(Brand,Chromium,Google Chrome"
+      },
+      {
+        "key": "user_agent_data_mobile",
+        "value": false
+      },
+      {
+        "key": "navigator_connection_downlink",
+        "value": 10
+      },
+      {
+        "key": "navigator_connection_downlink_max",
+        "value": null
+      },
+      {
+        "key": "network_info_rtt",
+        "value": 200
+      },
+      {
+        "key": "network_info_save_data",
+        "value": false
+      },
+      {
+        "key": "network_info_rtt_type",
+        "value": null
+      },
+      {
+        "key": "screen_pixel_depth",
+        "value": 24
+      },
+      {
+        "key": "navigator_device_memory",
+        "value": 4
+      },
+      {
+        "key": "navigator_pdf_viewer_enabled",
+        "value": true
+      },
+      {
+        "key": "navigator_languages",
+        "value": "en-US,en"
+      },
+      {
+        "key": "window_inner_width",
+        "value": 0
+      },
+      {
+        "key": "window_inner_height",
+        "value": 0
+      },
+      {
+        "key": "window_outer_width",
+        "value": 1920
+      },
+      {
+        "key": "window_outer_height",
+        "value": 1036
+      },
+      {
+        "key": "browser_detection_firefox",
+        "value": false
+      },
+      {
+        "key": "browser_detection_brave",
+        "value": false
+      },
+      {
+        "key": "browser_api_checks",
+        "value": [
+          "permission_status: true",
+          "eye_dropper: true",
+          "audio_data: true",
+          "writable_stream: true",
+          "css_style_rule: true",
+          "navigator_ua: true",
+          "barcode_detector: false",
+          "display_names: true",
+          "contacts_manager: false",
+          "svg_discard_element: false",
+          "usb: defined",
+          "media_device: defined",
+          "playback_quality: true"
+        ]
+      },
+      {
+        "key": "browser_object_checks",
+        "value": "554838a8451ac36cb977e719e9d6623c"
+      },
+      {
+        "key": "29s83ih9",
+        "value": "68934a3e9455fa72420237eb05902327⁣"
+      },
+      {
+        "key": "audio_codecs",
+        "value": "{\"ogg\":\"probably\",\"mp3\":\"probably\",\"wav\":\"probably\",\"m4a\":\"maybe\",\"aac\":\"probably\"}"
+      },
+      {
+        "key": "audio_codecs_extended_hash",
+        "value": "805036349642e2569ec299baed02315b"
+      },
+      {
+        "key": "video_codecs",
+        "value": "{\"ogg\":\"\",\"h264\":\"probably\",\"webm\":\"probably\",\"mpeg4v\":\"\",\"mpeg4a\":\"\",\"theora\":\"\"}"
+      },
+      {
+        "key": "video_codecs_extended_hash",
+        "value": "cb2c967d0cd625019556b39c63f7d435"
+      },
+      {
+        "key": "media_query_dark_mode",
+        "value": false
+      },
+      {
+        "key": "css_media_queries",
+        "value": 0
+      },
+      {
+        "key": "css_color_gamut",
+        "value": "srgb"
+      },
+      {
+        "key": "css_contrast",
+        "value": "no-preference"
+      },
+      {
+        "key": "css_monochrome",
+        "value": false
+      },
+      {
+        "key": "css_pointer",
+        "value": "fine"
+      },
+      {
+        "key": "css_grid_support",
+        "value": false
+      },
+      {
+        "key": "headless_browser_phantom",
+        "value": false
+      },
+      {
+        "key": "headless_browser_selenium",
+        "value": false
+      },
+      {
+        "key": "headless_browser_nightmare_js",
+        "value": false
+      },
+      {
+        "key": "headless_browser_generic",
+        "value": 4
+      },
+      {
+        "key": "1l2l5234ar2",
+        "value": "1742177961110⁢"
+      },
+      {
+        "key": "document__referrer",
+        "value": "https://www.roblox.com/"
+      },
+      {
+        "key": "window__ancestor_origins",
+        "value": [
+          "https://www.roblox.com",
+          "https://www.roblox.com"
+        ]
+      },
+      {
+        "key": "window__tree_index",
+        "value": [
+          0,
+          0
+        ]
+      },
+      {
+        "key": "window__tree_structure",
+        "value": "[[[]]]"
+      },
+      {
+        "key": "window__location_href",
+        "value": "https://arkoselabs.roblox.com/v2/2.11.6/enforcement.f9e933a9f186f0bdb8e44dd39534e940.html"
+      },
+      {
+        "key": "client_config__sitedata_location_href",
+        "value": "https://www.roblox.com/arkose/iframe"
+      },
+      {
+        "key": "client_config__language",
+        "value": null
+      },
+      {
+        "key": "client_config__surl",
+        "value": "https://arkoselabs.roblox.com"
+      },
+      {
+        "key": "c8480e29a",
+        "value": "82e587de59c07c4a379a6cc646c0e644⁢"
+      },
+      {
+        "key": "client_config__triggered_inline",
+        "value": false
+      },
+      {
+        "key": "mobile_sdk__is_sdk",
+        "value": false
+      },
+      {
+        "key": "audio_fingerprint",
+        "value": "124.04347527516074"
+      },
+      {
+        "key": "navigator_battery_charging",
+        "value": true
+      },
+      {
+        "key": "media_device_kinds",
+        "value": [
+          "videoinput",
+          "audiooutput"
+        ]
+      },
+      {
+        "key": "media_devices_hash",
+        "value": "a100118c0b7b0da99a7b6db752e59b8c"
+      },
+      {
+        "key": "navigator_permissions_hash",
+        "value": "67419471976a14a1430378465782c62d"
+      },
+      {
+        "key": "math_fingerprint",
+        "value": "3b2ff195f341257a6a2abbc122f4ae67"
+      },
+      {
+        "key": "supported_math_functions",
+        "value": "e9dd4fafb44ee489f48f7c93d0f48163"
+      },
+      {
+        "key": "screen_orientation",
+        "value": "landscape-primary"
+      },
+      {
+        "key": "rtc_peer_connection",
+        "value": 5
+      },
+      {
+        "key": "4b4b269e68",
+        "value": "6ef220b7-9933-46b1-8069-1815acec4a0d"
+      },
+      {
+        "key": "6a62b2a558",
+        "value": "f9e933a9f186f0bdb8e44dd39534e940"
+      },
+      {
+        "key": "is_keyless",
+        "value": false
+      },
+      {
+        "key": "speech_default_voice",
+        "value": "Google Deutsch || de-DE"
+      },
+      {
+        "key": "speech_voices_hash",
+        "value": "a0c90ca98043f0489c1e731e233b937e"
+      },
+      {
+        "key": "4ca87df3d1",
+        "value": "Ow=="
+      },
+      {
+        "key": "867e25e5d4",
+        "value": "Ow=="
+      },
+      {
+        "key": "d4a306884c",
+        "value": "Ow=="
+      }
+    ]
+  },
+  {
+    "key": "fe",
+    "value": [
+      "DNT:unknown",
+      "L:en-US",
+      "D:24",
+      "PR:1",
+      "S:1920,1080",
+      "AS:1920,1036",
+      "TO:0",
+      "SS:true",
+      "LS:true",
+      "IDB:true",
+      "B:false",
+      "ODB:false",
+      "CPUC:unknown",
+      "PK:Linux x86_64",
+      "CFP:-661929228",
+      "FR:false",
+      "FOS:false",
+      "FB:false",
+      "JSF:",
+      "P:Chrome PDF Viewer,Chromium PDF Viewer,Microsoft Edge PDF Viewer,PDF Viewer,WebKit built-in PDF",
+      "T:0,false,false",
+      "H:8",
+      "SWF:false"
+    ]
+  },
+  {
+    "key": "ife_hash",
+    "value": "b431439354d29b004e7e2aa317d5363b"
+  },
+  {
+    "key": "jsbd",
+    "value": "{\"HL\":3,\"NCE\":true,\"DT\":\"\",\"NWD\":\"false\",\"DMTO\":1,\"DOTO\":1}"
+  }
+]
